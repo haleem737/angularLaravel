@@ -1,0 +1,12 @@
+.row{
+    padding:0 4%;
+    margin:0 0 3px 0;
+}
+
+.create-order-table-header div{
+    background:orange;
+    margin:0 1px;
+    padding: 4px 0;
+    text-align:center;
+    border-radius:5px;
+}
